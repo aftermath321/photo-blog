@@ -39,7 +39,7 @@ const Cards: Card[] = [
 ];
 
 const MainCard: Card = {
-  src: "bg-[url('/pexels-photo-1248437.jpeg')]",
+  src: "bg-[url('/forest.jpeg')]",
   title: "Northern California",
   subtitle: "Spring 2023",
 };
